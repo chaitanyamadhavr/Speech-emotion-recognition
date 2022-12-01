@@ -20,4 +20,9 @@ It can also be used in-car board system based on information of the mental state
 HOW TO RUN THE FILES:
 
  Create a colab/jupyter notevbook with the code in the repository. Add the datasets and execute it.
+ 
+ 
+ DATASET LINK:
+ https://www.kaggle.com/datasets/aakritisharmaaa/speech-emotion-recognition-dataset
+ https://www.kaggle.com/datasets/ejlok1/toronto-emotional-speech-set-tess
 
